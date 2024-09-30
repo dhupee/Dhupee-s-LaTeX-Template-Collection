@@ -18,5 +18,5 @@ I don't get those from random pastebin, better to credit the maker
 
 ### From Overleaf
 
-- [Entry-level Cover Letter Template from Jayesh Sanwal](https://www.overleaf.com/latex/templates/entry-level-cover-letter-template)
+- [Entry-level Cover Letter Template from Jayesh Sanwal](https://www.overleaf.com/latex/templates/entry-level-cover-letter-template/zmvsthrfcnqh)
 - [Modern Simple ATS Friendly LateX CV from Yousef](https://www.overleaf.com/latex/templates/modern-simple-ats-friendly-latex-cv/fqxnznxhvdgp)
